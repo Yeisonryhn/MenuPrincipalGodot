@@ -11,13 +11,13 @@ config_version=3
 [application]
 
 config/name="Design a main menu screen (start)"
-run/main_scene=""
 config/icon="res://icon.png"
 
 [display]
 
 window/size/width=1366
 window/size/height=768
+window/stretch/aspect="keep"
 
 [gdnative]
 
